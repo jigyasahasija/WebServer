@@ -1,5 +1,4 @@
 # WebServer
-
 A basic HTTP server developed in Python that can handle concurrent multiple client requests.
 
 The following steps were followed:
